@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王鸿康`Blog</title>
+  
+  <subtitle>生活明朗, 万物可爱</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-12-18T10:38:50.421Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>王鸿康</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实验四  网页制作--多媒体课程实验在线平台</title>
+    <link href="http://example.com/posts/608ae77d.html"/>
+    <id>http://example.com/posts/608ae77d.html</id>
+    <published>2024-12-18T10:34:40.000Z</published>
+    <updated>2024-12-18T10:38:50.421Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>实验四</strong> <strong>网页制作**</strong>—<strong>**多媒体课程实验在线平台</strong></p><p><strong>1**</strong>、实验目的**</p><p>l 熟悉Dreamweaver CS6软件 （可以选用最新版本）（也可以借助其他编辑器）</p><p>l 掌握网页中文本格式的编辑</p><p>l 掌握<strong>多媒体元素</strong>的插入及格式编辑</p><p>l 掌握在网页中创建文本的<strong>超链接</strong>的方法 </p><p>l 掌握利用<strong>图像热点区域</strong>创建超链接的方法</p><p>l 掌握<strong>锚记的命名</strong>以及锚链接的创建方法</p><p><strong>参考学习W3school**</strong>上的内容HTML<strong><strong>和HTML5</strong></strong>：**</p><p> <a href="https://www.w3school.com.cn/html/html5_intro.asp"><strong>https://www.w3school</strong>.com.cn/html/html5_intro.asp</a></p><p><strong>2**</strong>、实验内容及要求**</p><p>l 制作“<strong>多媒体课程实验在线平台”</strong>，包含主网页（index.html）和子网页(注意命名方便识别)，要美观大方</p><p>l 主网页面设计风格不限，包含课程名及几次实验名称，其他元素可选择添加</p><p>l 子网页，每个子网页为独立的实验介绍，如：实验目的，实验内容，实验方法及步骤等可以适当上传自己的作品作为实验的参考效果，注意文件不要太大</p><p>l 每个之网页都可以返回主页及跳转到其他子网页</p><p><strong>补充说明：（HTML**</strong>版本不限）**</p><p>l 实验之前，可以创建站点（文件夹），包含图像文件夹，音频视频文件夹等</p><p>l 网页页面的布局情况，可以适当借助表格或分割线等，如熟悉框架结构，DIV+CSS的都可以采用</p><p>l 媒体的插入及设置等，可以参考下一页代码</p><p>l 最后递交设计好的网站等材料 （<strong>不用写实验报告</strong>，只用递交网页源文件+实验体会）</p><p> &lt;!doctype html&gt;</p><p><strong>媒体插入：注意源文件的路径要正确</strong></p><p><strong>1. 视频插入 （1）插入-媒体-附件|（2）采用video标签(音频采用audio)</strong></p><p><strong>2. 媒体下载</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;实验四&lt;/strong&gt; &lt;strong&gt;网页制作**&lt;/strong&gt;—&lt;strong&gt;**多媒体课程实验在线平台&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1**&lt;/strong&gt;、实验目的**&lt;/p&gt;
+&lt;p&gt;l 熟悉Dreamweaver CS6</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>实验三  动画制作（Animate 2024）</title>
+    <link href="http://example.com/posts/90754ade.html"/>
+    <id>http://example.com/posts/90754ade.html</id>
+    <published>2024-12-18T10:28:59.000Z</published>
+    <updated>2024-12-18T10:34:06.602Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="实验3-动画制作（Animate-2024）"><a href="#实验3-动画制作（Animate-2024）" class="headerlink" title="实验3 动画制作（Animate 2024）"></a>实验3 动画制作（Animate 2024）</h2><h3 id="实验目的和要求"><a href="#实验目的和要求" class="headerlink" title="实验目的和要求"></a>实验目的和要求</h3><p>(1) 熟悉工具箱的使用。<br>(2) 掌握各种类型组件的建立。<br>(3) 学会渐变动画的制作。<br>(4) 学会为按钮、电影剪辑设置动作。  </p><h3 id="实验内容和步骤"><a href="#实验内容和步骤" class="headerlink" title="实验内容和步骤"></a>实验内容和步骤</h3><h4 id="一、实验内容"><a href="#一、实验内容" class="headerlink" title="一、实验内容"></a>一、实验内容</h4><p>创建由按钮控制的电影剪辑播放、停止的交互式动画。</p><h4 id="二、实验步骤（和实际操作稍微有些差别）（与Flash-CS6相似，用Flash也可以完成）"><a href="#二、实验步骤（和实际操作稍微有些差别）（与Flash-CS6相似，用Flash也可以完成）" class="headerlink" title="二、实验步骤（和实际操作稍微有些差别）（与Flash CS6相似，用Flash也可以完成）"></a>二、实验步骤（和实际操作稍微有些差别）（与Flash CS6相似，用Flash也可以完成）</h4><ol><li><strong>打开Animate，新建-高级-ActionScript 3.0，设置文件大小为550px×120px。</strong></li><li><p><strong>建立内容分别为“杭”、“州”、“旅”、“游”四个图形组件</strong></p><ul><li>(1) 执行 <code>Insert(插入) → New Symbol(创建新元件)</code> 命令，创建一个名为“hang”的 <code>Graphic(图形)</code> 组件。使用文字工具在组件模式中写一个“杭”字，在字体中设置字体为“隶书”，大小为“32”，颜色为蓝色。</li><li>(2) 按照步骤1的方法，创建名为“zhou”、“lV”、“you”的 <code>Graphic</code> 组件。</li><li>(3) 单击 <code>Scene1(场景1)</code> 图标，从组件编辑模式切换到主场景。</li></ul></li><li><p><strong>在场景Scene1中制作“杭州旅游”文字变形动画。</strong></p><ul><li>(1) 执行 <code>Window(窗口) → Library(库)</code> 命令打开图库面板，将图形组件“hang”拖入主场景中。</li><li>(2) 选中“杭”字，执行 <code>Modify(修改) → Break Apart(分离)</code> 命令（通常执行两次）把“杭”字图形组件分离。</li><li>(3) 单击第20帧，按右键插入关键帧，把第1帧中的“杭”字拖到场景左边中间。</li><li>(4) 单击第1帧，选中“杭”，点击工具箱中的变换工具(任意变形工具)，调整“杭”字的大小和方向，把变换好的“杭”字拖到场景之外的区域。</li><li>(5) 单击第1帧，在第一帧上点右键，选择创建形状补间动画，则在第1帧至第20帧之间建立了“杭”字的形状渐变动画。（Enter键可测试动画效果，或者“控制”中的测试场景）</li><li>(6) 单击新建层图标，插入一个新层 <code>zhou</code>，单击第10帧，按右键插入关键帧，在第10～30帧，依照步骤1～5的方法，创建“州”字的形状渐变动画。</li><li>(7) 单击新建层图标，插入一个新层 <code>lv</code>，单击第20帧，按右键插入关键帧，在第20～40帧，依照步骤1～5的方法，创建“旅”字的形状渐变动画。</li><li>(8) 单击新建层图标，插入一个新层 <code>you</code>，单击第30帧，按右键插入关键帧，在第30～50帧，依照步骤1～5的方法，创建“游”字的形状渐变动画。</li></ul><p>动画结束后“杭州旅游”四个字排成一排，为了好看些，也可让四个字的最终效果成为弧形，如图E3.1所示。</p><p>图E3.1 “杭州旅游”形状渐变动画最终效果</p></li><li><p><strong>建立风景点图片按钮组件</strong></p><ul><li>(1) 执行 <code>Insert(插入) → New Symbol(创建新元件)</code> 命令，创建名为“ydsh”的 <code>Button(按钮)</code> 组件。</li><li>(2) 在按钮组件编辑模式下，在 <code>UP(弹起)</code> 状态把一幅雁荡山的风景图片拖入工作区。</li><li>(3) 鼠标单击 <code>Hit(点击)</code>，按右键插入关键帧，如图E3.2所示。</li><li>(4) 按照步骤1～3创建名为“lys”的灵隐寺图片 <code>Button(按钮)</code> 组件，和名为“xh”的西湖图片 <code>Button(按钮)</code> 组件。</li><li>(5) 转换组件编辑模式到主场景。</li></ul><p>图E3.2 “ydsh”按钮组件</p></li><li><p><strong>制作风景点图片的运动渐变动画</strong></p><ul><li>(1) 在主场景中，单击新建层图标，插入一个新层 <code>ydsh</code>。</li><li>(2) 在第50帧，按右键插入关键帧。</li><li>(3) 点击 <code>Windows(窗口) → Library(库)</code>，打开库窗口，将我们在(标题4)中制作的风景点图片按钮组件“ydsh”，拖入主场景中，把按钮组件移动到场景之外，动画开始时，它从场景之外移动到场景中来。</li><li>(4) 在第70帧，按右键插入关键帧，把“ydsh”按钮组件移动到场景之中，并安排好合适的位置。</li><li>(5) 在第50帧，点右键，选择创建传统补间动画，这样在第50至第70帧之间就建立了“ydsh”按钮组件从场景之外移入场景之中的运动渐变动画。</li><li>(6) 在第80帧，按右键键插入关键帧</li><li>(7) 在第100帧，按右键键插入关键帧，并把“ydsh”按钮组件移动到场景以外。</li><li>(8) 在第80帧，点右键，选择创建传统补间动画， 这样在第80至第100帧之间就建立了“ydsh”按钮组件从场景之中移入场景之外的运动渐变动画。如图E3.3所示。</li></ul><p>图E3.3  “ydsh”按钮组件运动渐变</p><p>到此，我们就在第50至第100帧之间建立了“ydsh”按钮组件的运动渐变动画，开始时按钮组件从场景之外移入场景之中，在场景中停留一下后，又从场景之中移出场景之外。</p><ul><li>(9) 单击新建层图标，插入新层 <code>lys</code> 和 <code>xh</code>，按照步骤1～8的方法，建立“lys”和“xh”两个风景点按钮组件的运动渐变动画。可以根据自己的要求，设置图片移出移入的方向和停留在场景中的位置。</li><li>(10) 单击第100帧，右击，在动作中添加脚本(代码)，也可借助辅助工具来编辑脚本（如图E3.4），点击代码片段-时间轴导航-<em>*</em>中的“单击以转到帧并播放”，代码中 <code>gotoandplay(帧)</code> 中把“帧”改为“50”。（目的是：从50帧重复播放50到100帧）</li></ul><p>图E3.4 设置第100帧的动作</p></li><li><p><strong>创建电影剪辑组件“text”，并把其安放在场景中</strong></p><ul><li>(1) 执行 <code>Insert（插入） → New Symbol（创建新图元）</code> 命令，创建名为“text”的“Movie clip”（影片剪辑）组件。（text为实例名称，务必要正确）</li><li>(2) 按右键键插入3个关键帧。</li><li>(3) 在动作面板中找到在动作面板中“全局函数”中的“时间轴控制”的“stop”，双击此项，把4个关键帧的动作都设置为停止（包括第一帧，共4个）。</li><li>(4) 第1帧设为空白，在第2、3、4帧分别写上三张风景点图片中所示风景点的名称——“雁荡山”、“灵隐寺”、“西湖”，如图E3.5所示。</li></ul><p>图E3.5  “text”电影剪辑组件的设置</p><ul><li>(5) 转换组件编辑模式到主场景，单击新建层图标，插入一个新层 <code>text</code>。</li><li>(6) 点击 <code>Windows（窗口） → Library（库）</code>，打开库窗口，将刚才制作的电影剪辑按钮组件“text”拖入主场景中，并安排好合适位置，这里将其放在“杭州旅游”四字的下面。</li><li>(7) 点击“text”影片剪辑按钮，在右侧的 <code>Properties（属性）</code> 面板中为电影剪辑组件取名为“text”。如图E3.6所示。</li></ul><p>图E3.6 设置电影剪辑组件的名字为“text“</p></li><li><p><strong>设置按钮实例的动作，当鼠标点击风景点画面的时候，风景点图片动画停止运动，并在场景中显示风景点的名称。</strong></p><ul><li>(1) 选中第5层，在第50帧，单击“ydsh”图片按钮，并右击 → 动作 → 添加脚本。</li><li>(2) 脚本可以借助工具（如图E3.4），点击代码片段-事件处理函数-Mouse over事件（实现鼠标悬停时图片暂停，并显示图片信息等功能）及 Mouse out 事件（实现鼠标移开时图片继续播放，不显示图片信息功能）。</li></ul><p>（实现鼠标悬停时图片暂停，并显示图片信息等功能）及Mouse out事件（实现鼠标移开时图片继续播放，不显示图片信息功能）</p><p>见下图脚本代码。务必弄清楚脚本是控制哪张图片的，就先点击哪个图片按钮，再添加脚本。代码中的text就是影片剪辑元件的实例名称，控制影片剪辑中的不同帧的播放动作。第1帧为空白帧，后面几帧对应的不通图片按钮的信息介绍，所以当鼠标悬停时，要选好对应的帧。</p><p>​                               </p><ul><li><p>(3)添加脚本后，鼠标滑过或者点击“ydsh”图片按钮的时候，图片按钮停止运动，并通过影片剪辑显示对应的图片信息。按照相同的方法，对其他图片按钮（lys和xh）进行动作添加。影片剪辑处分别显示“灵隐寺”和 “西湖”</p><p><strong>（**</strong>1<strong><strong>对应的为空白帧，</strong></strong>2,3,4<strong>**分别对应三张风景的图片）</strong></p></li></ul></li></ol><p>   8.输出电影为.swf格式</p><p>   执行Fill(文件)→Export Movie(导出电影)命令，在弹出的对话框中命名文件名称，并设置保存类型为<strong>“**</strong>.swf<strong>**”</strong>，保存文件。</p><p>   通过装有flash player插件的浏览器放映该电影，观众可参与控制电影的播放。当电影载入时，“杭州旅游”四个字从四面八方飞入场景之中，然后3幅旅游景点的图片向场景中移动，鼠标单击或者滑过风景点图片时，风景点图片停止运动，并在“杭州旅游”四字的下方显示出旅游景点的名字。鼠标滑离风景点后，风景点图片动画继续运动。</p><p>   也可以通过文件-发布设置-其他格式（win放映文件）生成.exe文件。发布设置里还有许多其他的视频格式供选择。</p><p>   思考题</p><p>   1.如何制作多场景动画?</p><p>   2.如何在动画中添加背景音乐?</p><p>   3.如何制作在电影的某个固定区域载入另一个电影?</p><p>   4.可以研究一下</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;实验3-动画制作（Animate-2024）&quot;&gt;&lt;a href=&quot;#实验3-动画制作（Animate-2024）&quot; class=&quot;headerlink&quot; title=&quot;实验3 动画制作（Animate 2024）&quot;&gt;&lt;/a&gt;实验3 动画制作（Animate 202</summary>
+      
+    
+    
+    
+    
+    <category term="动画制作" scheme="http://example.com/tags/%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C/"/>
+    
+    <category term="Animate 2024" scheme="http://example.com/tags/Animate-2024/"/>
+    
+    <category term="Flash" scheme="http://example.com/tags/Flash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实验2 视频编辑软件Premiere CS6.0的使用</title>
+    <link href="http://example.com/posts/83c7f37e.html"/>
+    <id>http://example.com/posts/83c7f37e.html</id>
+    <published>2024-12-18T10:22:02.000Z</published>
+    <updated>2024-12-18T10:34:06.600Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="实验2-视频编辑软件Premiere-CS6-0的使用"><a href="#实验2-视频编辑软件Premiere-CS6-0的使用" class="headerlink" title="实验2 视频编辑软件Premiere CS6.0的使用"></a>实验2 视频编辑软件Premiere CS6.0的使用</h2><h3 id="CS6-中几个关键特效处理："><a href="#CS6-中几个关键特效处理：" class="headerlink" title="CS6 中几个关键特效处理："></a>CS6 中几个关键特效处理：</h3><ul><li>视频切换—-3D运动——-门</li><li>视频切换—-叠化——胶片溶解</li><li>视频特效扭曲—-镜像</li><li>视频特效生成—镜头光晕——-运动控制点</li><li>图层雪人——-设定运动轨迹的控制点</li><li>字幕—双击显示后——菜单中字幕（游动）</li></ul><h3 id="实验目的和要求"><a href="#实验目的和要求" class="headerlink" title="实验目的和要求"></a>实验目的和要求</h3><ol><li>了解Premiere 的界面。</li><li>掌握Premiere 的基本操作。</li><li>了解使用Premiere制作影视动画的过程。</li></ol><h3 id="一、实验内容"><a href="#一、实验内容" class="headerlink" title="一、实验内容"></a>一、实验内容</h3><p>实验内容和步骤：<br>在这个实验里，实现一个小女孩玩雪的几个片段的组接。片段之间设置转场效果，片段进行特技处理和设置片段的运动路径。</p><h3 id="二、实验步骤"><a href="#二、实验步骤" class="headerlink" title="二、实验步骤"></a>二、实验步骤</h3><blockquote><p>说明：步骤中的图与文字描述稍微有些差异，尤其是图中的字幕和视频片段放置的轨道不同，根据自己的设计，可以自己选择不同的轨道来放置视频片段和字幕。</p></blockquote><ol><li><p><strong>单击Premiere 窗口菜单栏上的File（文件）→New（新建）→Title（字幕）命令</strong>，在弹出的Title（字幕）窗口中，在Size（大小）框里面填上320×240像素大小。如果需要背景，可以单独设置一个静态的title，背景颜色在属性中设置成白色，背景也可以是其他静态的图片，直接拖到轨道上即可（与title并行的其他轨道上）。</p></li><li><p><strong>用鼠标选择Title（字幕）工具栏中的文本工具</strong>，输入文字，在属性中选择适当的字体、样式、大小和颜色等。</p><p>图E4.1输入文字</p></li><li><p><strong>从菜单中选择Title（字幕）下的Roll/Crawl Options（滚动字幕选项）选项</strong>，设置文字滚动的方向为Move Up（上移）。在这个Rolling Title Options（滚动字幕选项）对话框里面设置了4种字幕滚动方向，选中哪一个选项，则字幕的滚动方向就是该选项所代表的方向。设置完毕以后，单击OK（确定）按钮，然后把文件保存为title1.ptl，如图E4.2所示。</p><p>图E4.2设置字幕的滚动方向</p></li><li><p><strong>向 Project（项目）窗口中输入原始片段</strong>。单击 File（文件）→Import（导入）→File（文件）命令，或者在新建项目中单击右键，在出现的Import（导入）对话框中按下Ctrl键的同时选择素材片段title.ptl片段、下雪啦.mpg片段、打雪仗.mpg片段、合影.mpg片段、snowman.psd 图片。</p></li><li><p><strong>将title.ptl 文件从 Proiect（工程）窗口拖动到Timeline（时间线）窗口的Video 1（V视频1）轨道上</strong>，用箭头选取工具拖拽边缘至一定长度。再把“下雪啦.mpg”文件从 Project（工程）窗口拖动到 Timeline（时间线）窗口的Video 2（V视频2）轨道上，使其与title.ptl文件有一定的重叠。</p></li><li><p><strong>选中Window（窗口）下的effect（特技）命令</strong>，在video Transitions（视频切换）框中选择3D motion 组中的 Door 过渡效果，这种过渡效果能使一个片段通过开门的形式来实现和另一个片段的过渡。拖动Door 过渡效果到轨道上，并和轨道Video 2 上片段的起始点对齐。双击该过渡片段，设置效果，在特效控制台中设置。</p><p>图E4.3 Door效果设置</p></li><li><p><strong>把“打雪仗.mpg”文件从Project（工程）窗口拖动到Timeline（时间线）窗口的Video 1（V视频1）轨道上</strong>，与Timeline（时间线）窗口的Video 2（V视频2）轨道上的“下雪啦.mpg”片段有一定的重叠。选中Transitions（显示特技）框中 Dissolve（叠化）组中的 Cross Dissolve 过渡效果，这种过渡效果能使一个片段通过像素溶解的形式来实现和另一个片段的过渡。拖动Cross Dissolve过渡效果到轨道上，并和轨道Video 1（V视频1）上的“打雪仗.mpg”片段的起始点与Video 2（V视频2）上“下雪啦mpg”的结束点对齐。双击该过渡片段，设置如图E4.4所示。</p><p>图E4.4 Cross Dissolve 对话框</p></li><li><p><strong>对“打雪仗.mpg”片段设置滤镜效果</strong>。单击选中Video effect选项卡Distort组的Mirror，将其拖至时间轴的“打雪仗.mpg”片段上。设置效果，在图E4.5中设置镜像的位置在x方向250处。</p><p>图E4.5中设置镜像的位置</p></li><li><p><strong>将项目窗口中的“合影.mpg”文件拖至时间线上 Video 1 上紧跟“打雪仗.mpg”后</strong>。并对该片段添加video effect组中generate下的Lens Flare 滤镜。分别将播放头置于该片段的起始位置与结束位置，在图E4.6的Lens Flare滤镜效果控制窗口中设置效果，关键时添加两个关键帧，把光晕放在不同的位置，如图。</p><p>图E4.6片段起始与结束处Lens Flare（镜头光圈）设置</p></li><li><p><strong>把 Snowman.psd 图片拖拽到Video 2（V视频2）轨道“合影.mpg”片段上方</strong>，并调整时间长度一致。鼠标右键单击该图片素材，执行Motion（运动设置）命令。在弹出的Motion Settings（运动设置）对话框窗口中设置雪人的位置效果。</p><p>将片段的起始点设置在Visible Area（可视区域）之外的左下角上，然后选择片段的结束点，将它设置在Visible Area（可视区域）之外的右上角上。把起始点的Zoom（缩放）值设置为100，结束点的Zoom（缩放）值设置为10。由于Snowman.psd图片中雪人形象的选区为alpha通道，故最终显示效果只显示出雪人形象。再在时间路径上多设置几个控制点，设置好各个点的运动轨迹，如图E4.7所示。</p><p>图E4.7 Motion Settings（运动设置）</p></li><li><p><strong>建立title2.ptl、title3.ptl、title4.ptl 标题文件</strong>，背景设置为白色或者无色（不选择背景）。分别在窗口最下方添加滚动文字“下雪啦!”、“打雪仗啦!”、“来合个影吧!”，并设置滚动文字方向向左。分别将title2.ptl、title3.ptl 拖拽到“下雪啦.mpg”、“打雪仗.mpg”片段上方的Video 2（V视频2）上。将title4.ptl标题文件拖拽到Video 3轨道并在“合影.mpg”上方。</p></li><li><p><strong>保存节目</strong>：<br>单击Premiere 菜单窗口中的File（文件）→Save（保存）命令，保存节目，然后按下Enter（回车）键进行节目预览。在激活Timeline（时间线）窗口的情况下（点击时间线），单击File（文件）→Export →media，把输出的节目命名为“雪趣”，按下Settings（保存）按钮，弹开Export Movie Settings(输出影片设置)对话框，选择合适的格式进行输出。</p></li></ol><h3 id="思考题"><a href="#思考题" class="headerlink" title="思考题"></a>思考题</h3><ol><li>如何在制作的影像动画中加入滚动的字幕?</li><li>如何实现多画面效果?</li><li>如何向视频中加入声音并设置声音滤镜?</li><li>列举视频文件的主要格式。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;实验2-视频编辑软件Premiere-CS6-0的使用&quot;&gt;&lt;a href=&quot;#实验2-视频编辑软件Premiere-CS6-0的使用&quot; class=&quot;headerlink&quot; title=&quot;实验2 视频编辑软件Premiere CS6.0的使用&quot;&gt;&lt;/a&gt;实验2 视</summary>
+      
+    
+    
+    
+    
+    <category term="基础" scheme="http://example.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="视频编辑" scheme="http://example.com/tags/%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91/"/>
+    
+    <category term="Premiere CS6.0" scheme="http://example.com/tags/Premiere-CS6-0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实验1 Adobe Photoshop CS6</title>
+    <link href="http://example.com/posts/e672e2e.html"/>
+    <id>http://example.com/posts/e672e2e.html</id>
+    <published>2024-12-18T09:49:00.000Z</published>
+    <updated>2024-12-18T10:19:40.621Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="实验1-Adobe-Photoshop-CS6"><a href="#实验1-Adobe-Photoshop-CS6" class="headerlink" title="实验1 Adobe Photoshop CS6"></a>实验1 Adobe Photoshop CS6</h1><h2 id="实验目的和要求"><a href="#实验目的和要求" class="headerlink" title="实验目的和要求"></a>实验目的和要求</h2><ol><li>学会在图像中选取区域。</li><li>学会图像的变换。</li><li>掌握蒙板、通道的功能及用法。</li><li>学会为图层设置效果层制作立体效果。</li><li>学会用滤镜制作特殊效果。</li></ol><h2 id="实验内容和步骤"><a href="#实验内容和步骤" class="headerlink" title="实验内容和步骤"></a>实验内容和步骤</h2><h3 id="一、实验内容"><a href="#一、实验内容" class="headerlink" title="一、实验内容"></a>一、实验内容</h3><ol><li><strong>建立一个新文件，制作奥运五环标志。</strong></li><li><strong>选取作为北京标志的天坛图像素材。</strong></li><li><strong>合成图片并制作浮雕效果。</strong></li><li><strong>使用滤镜制作艺术字。</strong></li><li><strong>合成一枚奥运纪念币。</strong></li></ol><h3 id="二、实验步骤"><a href="#二、实验步骤" class="headerlink" title="二、实验步骤"></a>二、实验步骤</h3><h4 id="1-建立一个新文件，制作奥运五环标志"><a href="#1-建立一个新文件，制作奥运五环标志" class="headerlink" title="1. 建立一个新文件，制作奥运五环标志"></a>1. 建立一个新文件，制作奥运五环标志</h4><ul><li>(1) 选择“开始”→“程序”→Adobe Photoshop，打开Photoshop程序界面。</li><li>(2) 执行“文件”→“新建”命令，建立一个新文件。新文件名为 <code>Olympic</code>，高和宽均为10cm，分辨率为72ppi，RGB色彩模式，背景为白色。</li><li><p>(3) 执行“视图”→“标尺”命令，将鼠标从标尺上拖拽到图像区域，建立参考线。</p><p>  <img src="E:/xinjian/Blog/source/img/siteicon/E1.png" alt="图1"></p></li><li><p>(4) 执行“视图”→“对齐到”→“参考线”命令，从工具箱中选用圆形选区工具，按住Shift+Alt 键在参考线交点处单击并拖拉制作一个圆形选区。</p><p>  <img src="E:/xinjian/Blog/source/img/siteicon/E2.png" alt="图2"></p></li><li><p>(5) 执行“选择”→“存储选区”命令，将选区存储为 <code>Alpha 1</code> 通道。</p><p>  <img src="E:/xinjian/Blog/source/img/siteicon/E3.png" alt="图3"></p></li><li><p>(6)按 Ctrl+D 键或执行“选择”→“取消选区”命令取消选区浮动。  (7)重复步骤4、步骤5，建立一个稍大些的圆形选区并存储为AIpha 2通道。</p></li><li>(7)重复步骤4、步骤5，建立一个稍大些的圆形选区并存储为AIpha 2通道。</li><li>(8)保持大的圆选区浮动，执行“选择”→“载入选区”命令，设置为将Alpha  l 通道从选区中减去(如图E2.4所示)，然后单击“好”按钮形成一个圆环状选区。</li><li><img src="E:/xinjian/Blog/source/img/siteicon/E4.png" alt="图4"></li><li>(9)存储圆环状选区为Alpha 3通道。</li><li>(10)执行“窗口”→“通道”命令，打开通道控制面板，可查看通过以上步 骤建立的三个选区通道，如图E2.5所示。</li><li><img src="E:/xinjian/Blog/source/img/siteicon/E5.png" alt="图5"></li><li>(11)执行“视图”→“标尺”命令去掉前面的勾号和“视图”→“清除参考 线”命令，隐藏标尺和清除参考线</li><li>(12)在图层控制面板中，单击下部的“建立新图层”图标，建立图层1。  设置工具箱中的色彩控制图标的前景色为黑色，执行“编辑”→“填充”命 令，使用“前景色”，在图层1中建立一个黑色圆环，如图E2.6所示。</li><li>(13)用选区工具拖移圆环选区或多次按压键盘上的向左光标键，使圆环选区向左侧移动，如图E2.7所示。</li></ul><h4 id="2-选择天坛图像"><a href="#2-选择天坛图像" class="headerlink" title="2. 选择天坛图像"></a>2. 选择天坛图像</h4><ul><li>(1) 执行“文件”→“打开”命令，打开天坛图片文件（<code>tiantan.jpg</code>）。</li><li>(2) 用磁性套索工具沿建筑物外形移动，制作建筑物选区。</li></ul><h4 id="3-合成图片"><a href="#3-合成图片" class="headerlink" title="3. 合成图片"></a>3. 合成图片</h4><ul><li>(1) 单击工具箱中的色彩控制图标，设置背景色为蓝色。</li><li>(2) 执行“文件”→“新建”命令，建立一个新文件，命名为 <code>Currency</code>。</li><li>(3) 执行“编辑”→“粘贴”命令，将天坛建筑物选区图像粘贴到 <code>Currency</code> 文件中，调整大小。</li></ul><ul><li>(4)在 Olympic 文件中，选择图层1中五环，如图E2.12所示，使用移动工具 拖拽五环选区图像到Currency文件中，占据图层2。执行“编辑”→“变换”→ “缩放”命令，将图像缩小。合成得到的图像如图E2.13所示。  图 E2.12选取五环选区           图E2.13合成所得图像</li><li>(6)执行“文件”→“保存”命令，保存该合成图像文件。</li><li>(7)选择图层1，执行“滤镜”→“风格化”→“浮雕”命令，进行如图E2.14 所示的设置，使建筑物产生浮雕效果。  图E2.14浮雕设置</li><li>(8)对图层2中的五环执行“图层”→“图层样式”→“斜面和浮雕”命令， 进行如图E2.15所示的设置。  6  图E2.15图层效果设置</li><li>(9)在图层控制面板中将背景层拖拽到控制面板下部的“新增图层”上，将背 景层复制为“背景层副本”。</li><li>(10)对背景层副本执行“滤镜”→“杂色”→“添加杂色”命令，设置如图 E2.16 所示。  </li><li>(11)继续为背景层副本执行“滤镜”→“模糊”→“高斯模糊”命令，出现 如图E2.17所示效果。  图E2.16添加杂色设置    图E2.17背景副本层应用高斯模糊滤镜后效果  7  </li><li>(12)使用圆形选区工具并按Shift键在背景副本层画一个正圆选区。保持选区 浮动，执行“选择”→“反选”命令，然后按Delete键删除反选区图像，形成一 个圆形图案。  </li><li>(13)沿圆形图案边缘制作一个环形选区。  </li><li>(14)执行“图层”→“图层样式”命令，应用“斜面和浮雕”命令对该层制 作立体效果，如图E2.18所示。</li></ul><h3 id="思考题"><a href="#思考题" class="headerlink" title="思考题"></a>思考题</h3><ol><li>若要对文字工具生成的文字图层进行滤镜效果处理，应如何进行?</li><li>Adobe Photoshop 有哪些创建选区的方法？如何将这些选区存储起来？如何在现有选区的基础上增加或减少选区？如果要保留这些选区，应存储为哪种文件格式？</li><li>简述你对蒙版的理解。</li><li>简述你对通道的理解。</li><li>自由设计纪念币的反面，命名为 <code>背面.PSD</code> 和 <code>背面.jpg</code>。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;实验1-Adobe-Photoshop-CS6&quot;&gt;&lt;a href=&quot;#实验1-Adobe-Photoshop-CS6&quot; class=&quot;headerlink&quot; title=&quot;实验1 Adobe Photoshop CS6&quot;&gt;&lt;/a&gt;实验1 Adobe Photosh</summary>
+      
+    
+    
+    
+    
+    <category term="Photoshop" scheme="http://example.com/tags/Photoshop/"/>
+    
+    <category term="实验报告" scheme="http://example.com/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/posts/16107.html"/>
+    <id>http://example.com/posts/16107.html</id>
+    <published>2024-12-08T10:15:29.193Z</published>
+    <updated>2024-12-08T11:01:37.765Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
